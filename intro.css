@@ -1781,7 +1781,7 @@ body{
     }
 }
 .box-content .right .content p{
-    padding: 30px 15px 0px 15px;
+    padding: 15px 5px 15px 5px;
     text-align: center;
     font-size: 18px;
     font-family: 'Dancing Script', cursive;
@@ -1808,7 +1808,7 @@ body{
 .box-content .right .content h3{
     font-size: 18px;
     font-family: 'Dancing Script', cursive;
-    padding: 20px 0px 0px 20px;
+    padding: 5px 5px 5px 5px;
     margin-top: -50px;
 }
 .slider3:hover .content h3{

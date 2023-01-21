@@ -1,3 +1,4 @@
+document.addEventListener("touchstart", function() {}, false);
 var buttonActive = document.querySelector('.button button')
 buttonActive.onclick = function(){
     var boxFlower = document.querySelector('.flower-img:nth-child(1)')
@@ -36,11 +37,13 @@ buttonActive.onclick = function(){
 var mail = document.querySelector(".mail")
 var slider3 = document.querySelector(".slider3")
 var closeSlider3 = document.querySelector(".fa-xmark")
+
 mail.onclick = function(){
     slider3.classList.add("active")
 }
+
 closeSlider3.addEventListener('click', function(){
-    slider3.classList.remove('active')
+	slider3.classList.remove('active')
 })
 
 

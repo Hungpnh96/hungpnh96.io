@@ -1800,7 +1800,6 @@ body{
     }
 }
 .content .fixedContent{
-	animation: bodyContent 2s 1s forwards;
     width: 250px;
     height: 80px;
     overflow: hidden; 
@@ -2100,18 +2099,18 @@ body{
 
  @media screen and (max-width: 390px){
     .box-lion_dance .lion_dance1{
-        top: 550px;
+        top: 61%;
         z-index: 100000;
         right: 0;
     }
     .box-lion_dance .lion_dance2{
-        top: 565px;
+        top: 63%;
         z-index: 100000;
         left: 0;
     }
     .box-button{
-        top: 90%;
-		z-index: 100001;
+        top: 80%;
+		z-index:100001;
     }
     .number2023{
         font-size: 50px;

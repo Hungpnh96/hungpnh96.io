@@ -2030,6 +2030,7 @@ body{
     .mail{
         /* margin-top: 140%; */
 		/* top: 80%; */
+		    top: 0%;
         z-index: 1000000000000000;
     }
     .slider3 .box-content{
